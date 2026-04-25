@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Anelvis! 👋 🇩🇴
 
-<!--
-**Anelvis/Anelvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Python Developer** dedicated to building backend solutions with a strong focus on **Clean Code** and **Scalability**. I don't just write code that works; I strive to write code that is maintainable and efficient.
 
-Here are some ideas to get you started:
+### 🛠️ Development Philosophy
+* **Clean Code:** Writing readable and organized code.
+* **Scalability:** Designing APIs that are ready to grow.
+* **Efficiency:** Optimizing Python logic for best performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🐍 Tech Stack
+* **Language:** Python
+* **Focus:** API Development & Backend Architecture.
+* **Goal:** Building high-quality services for **RapidAPI**.
+
+---
+*"Quality is not an act, it is a habit."*
